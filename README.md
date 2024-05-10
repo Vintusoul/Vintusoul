@@ -1,11 +1,4 @@
-<div style="
-    background-color: #f0f6fc;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    max-width: 600px;
-    margin: auto;
-">
+
     # Hi there! 👋
 
     I'm Christelle, a passionate frontend developer specializing in ReactJS and TypeScript. I love crafting beautiful and intuitive user interfaces that bring joy to users. With a keen eye for detail and a commitment to writing clean and maintainable code, I strive to create delightful digital experiences.
@@ -46,4 +39,3 @@
     - Website/Portfolio: coming soon...
 
     Feel free to reach out if want to chat about frontend development and technology. I'm always open to new connections!
-</div>
