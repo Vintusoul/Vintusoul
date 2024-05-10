@@ -5,9 +5,9 @@ I'm Christelle, a passionate frontend developer specializing in ReactJS and Type
 ## 🚀 Skills
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS Logo" width="100" style="margin: 0 20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="100" style="margin: 0 20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="100" style="margin: 0 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS Logo" width="50" style="margin: 0 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="50" style="margin: 0 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="50" style="margin: 0 10px;">
 </div>
 
 - **Languages:** JavaScript, TypeScript, HTML5, CSS3
