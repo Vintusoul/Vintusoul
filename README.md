@@ -20,7 +20,7 @@ I'm Christelle, a passionate developer specializing in TypeScript. I love crafti
 
 ## 💼 Experience (3 years) 
 - Current: [InfoDocs](https://infodocs.co.za/)
-- Previous: [CodeInfinity](https://codeinfinity.co.za/), [GotBot](https://www.gotbot.co.za/)
+- Previous: [CodeInfinity](https://codeinfinity.co.za/), [Nexus IT Consultants](https://www.nexusit.dev), [GotBot](https://www.gotbot.co.za/)
 
 ## 📫 Let's Connect
 
