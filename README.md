@@ -2,7 +2,7 @@
 # Hi there! 👋
 I'm Christelle, a passionate developer specializing in TypeScript. I love crafting beautiful and intuitive user interfaces that bring joy to users. With a keen eye for detail and a commitment to writing clean and maintainable code, I strive to create delightful digital experiences.
 
-## 🚀 Skills
+## 🏆 Skills
 <div style="display: flex; justify-content: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS Logo" width="20" style="margin: 0 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="20" style="margin: 0 10px;">
@@ -19,9 +19,8 @@ I'm Christelle, a passionate developer specializing in TypeScript. I love crafti
 - **Design:** Figma
 
 ## 💼 Experience (3 years) 
-- Current [InfoDocs](https://infodocs.co.za/)
-- [CodeInfinity](https://codeinfinity.co.za/)
-- [GotBot](https://www.gotbot.co.za/)
+- Current: [InfoDocs](https://infodocs.co.za/)
+- Previous: [CodeInfinity](https://codeinfinity.co.za/), [GotBot](https://www.gotbot.co.za/)
 
 ## 📫 Let's Connect
 
