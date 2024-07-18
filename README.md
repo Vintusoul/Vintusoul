@@ -10,10 +10,11 @@ I'm Christelle, a passionate developer specializing in TypeScript. I love crafti
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma Logo" height="20" style="margin: 0 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Figma Logo" height="20" style="margin: 0 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Figma Logo" height="20" style="margin: 0 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="20" style="margin: 0 10px;">
 </div>
 
-- **Languages:** JavaScript, TypeScript, HTML5, CSS3
-- **Frameworks/Libraries:** Angular, ReactJS
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3, PHP
+- **Frameworks/Libraries:** Angular, ReactJS, Laravel
 - **Tools/Platforms:** Git, npm
 - **Design:** Figma
 
