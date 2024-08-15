@@ -11,7 +11,7 @@
 
 ---
 
-## Hi there! :octocat:
+### Hi there! :octocat:
 I'm **Christelle**, a passionate developer specializing in **TypeScript**. I love crafting beautiful and intuitive user interfaces that bring joy to users. With a keen eye for detail and a commitment to writing clean and maintainable code, I strive to create delightful digital experiences.
 
 - **Current:** [InfoDocs](https://infodocs.co.za/)
