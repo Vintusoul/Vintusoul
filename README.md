@@ -1,9 +1,3 @@
-# Hi there! 
-
-I'm **Christelle**, a passionate developer specializing in **TypeScript**. I love crafting beautiful and intuitive user interfaces that bring joy to users. With a keen eye for detail and a commitment to writing clean and maintainable code, I strive to create delightful digital experiences.
-
-**Skills**
-
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -14,12 +8,15 @@ I'm **Christelle**, a passionate developer specializing in **TypeScript**. I lov
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
-**Experience** (3 years)
+## Hi there! 
+I'm **Christelle**, a passionate developer specializing in **TypeScript**. I love crafting beautiful and intuitive user interfaces that bring joy to users. With a keen eye for detail and a commitment to writing clean and maintainable code, I strive to create delightful digital experiences.
 
+## Work Experience
 - **Current:** [InfoDocs](https://infodocs.co.za/)
 - **Previous:** [CodeInfinity](https://codeinfinity.co.za/), [Nexus IT Consultants](https://www.nexusit.dev), [GotBot](https://www.gotbot.co.za/)
 
-**Let's Connect**
+## Let's Connect
+Feel free to reach out. I'm always open to new connections!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christelle-mans/" target="_blank">
