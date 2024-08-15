@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vintusoul&show_icons=true)
+![GitHub Snake](https://github.com/christelle/vintusoul/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Hi there! 
