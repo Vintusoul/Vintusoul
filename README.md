@@ -1,3 +1,6 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?christelle=vintusoul&show_icons=true)
+
+
 ## Hi there! 
 I'm **Christelle**, a passionate developer specializing in **TypeScript**. I love crafting beautiful and intuitive user interfaces that bring joy to users. With a keen eye for detail and a commitment to writing clean and maintainable code, I strive to create delightful digital experiences.
 
