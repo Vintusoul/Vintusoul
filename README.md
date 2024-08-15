@@ -1,3 +1,6 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=christelle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## Hi there! 
 I'm **Christelle**, a passionate developer specializing in **TypeScript**. I love crafting beautiful and intuitive user interfaces that bring joy to users. With a keen eye for detail and a commitment to writing clean and maintainable code, I strive to create delightful digital experiences.
 
