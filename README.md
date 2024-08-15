@@ -30,6 +30,4 @@ I'm Christelle, a passionate developer specializing in TypeScript. I love crafti
     </a>
 </p>
 
-- LinkedIn: [View my profile](https://www.linkedin.com/in/christelle-mans/)
-
 Feel free to reach out. I'm always open to new connections!
