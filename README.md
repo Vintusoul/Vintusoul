@@ -24,3 +24,5 @@ I'm **Christelle**, a passionate developer specializing in **TypeScript**. I lov
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
+---
+![Octocat](https://octodex.github.com/images/hulatocat.gif)
