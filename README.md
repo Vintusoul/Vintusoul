@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?christelle=vintusoul&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vintusoul&show_icons=true)
 
 
 ## Hi there! 
