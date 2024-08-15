@@ -25,4 +25,4 @@ I'm **Christelle**, a passionate developer specializing in **TypeScript**. I lov
 </div>
 
 ---
-![Octocat](https://octodex.github.com/images/hulatocat.gif)
+![Octocat](https://octodex.github.com/images/hulatocat)
