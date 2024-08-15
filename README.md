@@ -6,10 +6,10 @@ I'm **Christelle**, a passionate developer specializing in **TypeScript**. I lov
 - **Previous:** [CodeInfinity](https://codeinfinity.co.za/), [Nexus IT Consultants](https://www.nexusit.dev), [GotBot](https://www.gotbot.co.za/)
 
 ## Let's Connect
-Feel free to reach out. I'm always open to new connections! <a href="https://www.linkedin.com/in/christelle-mans/" target="_blank">
+ <a href="https://www.linkedin.com/in/christelle-mans/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-  </a>
-
+  </a> Feel free to reach out. I'm always open to new connections!
+  
 ---
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
