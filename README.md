@@ -1,10 +1,8 @@
-# Hi there! 👋
+# Hi there! 
 
 I'm **Christelle**, a passionate developer specializing in **TypeScript**. I love crafting beautiful and intuitive user interfaces that bring joy to users. With a keen eye for detail and a commitment to writing clean and maintainable code, I strive to create delightful digital experiences.
 
----
-
-## 🛠️ Skills
+**Skills**
 
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
@@ -16,28 +14,16 @@ I'm **Christelle**, a passionate developer specializing in **TypeScript**. I lov
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
----
-
-## 💼 Experience
+**Experience** (3 years)
 
 - **Current:** [InfoDocs](https://infodocs.co.za/)
 - **Previous:** [CodeInfinity](https://codeinfinity.co.za/), [Nexus IT Consultants](https://www.nexusit.dev), [GotBot](https://www.gotbot.co.za/)
-
+- 
 ---
-
-## 📫 Let's Connect
+**Let's Connect**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christelle-mans/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
 </p>
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/christelle-mans/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" 
-    onmouseover="this.style.backgroundColor='#005A8C';" onmouseout="this.style.backgroundColor='#0077B5';" style="transition: background-color 0.3s;"/>
-  </a>
-</p>
-
