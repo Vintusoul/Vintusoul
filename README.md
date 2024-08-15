@@ -27,6 +27,6 @@ Feel free to reach out. I'm always open to new connections!
 <details>
   <summary>Click to see the Octocat!</summary>
 <p align="center">
-  <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" alt="Octocat" width="200" />
+  <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" alt="Octocat" width="200" style="border-radius: 50%;" />
 </p>
 </details>
