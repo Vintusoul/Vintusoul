@@ -24,23 +24,11 @@ I'm Christelle, a passionate developer specializing in TypeScript. I love crafti
 
 ## 📫 Let's Connect
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/christelle-mans/" target="_blank" style="text-decoration: none;">
-        <div style="
-            display: inline-block;
-            padding: 10px 20px;
-            font-size: 16px;
-            color: white;
-            background-color: #0077B5;
-            border-radius: 5px;
-            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-            transition: background-color 0.3s, transform 0.3s;
-            ">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" style="vertical-align: middle; margin-right: 8px;">
-            Connect with me on LinkedIn
-        </div>
+<p align="center">
+    <a href="https://www.linkedin.com/in/christelle-mans/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
     </a>
-</div>
+</p>
 
 - LinkedIn: [View my profile](https://www.linkedin.com/in/christelle-mans/)
 
