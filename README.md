@@ -1,4 +1,4 @@
-![GitHub Snake](https://github.com/Vintusoul/Vintusoul/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/vintusoul/vintusoul/blob/output/github-contribution-grid-snake.svg)
 
 ## Hi there! 
 I'm **Christelle**, a passionate developer specializing in **TypeScript**. I love crafting beautiful and intuitive user interfaces that bring joy to users. With a keen eye for detail and a commitment to writing clean and maintainable code, I strive to create delightful digital experiences.
