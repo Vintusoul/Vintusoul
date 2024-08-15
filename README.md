@@ -25,4 +25,9 @@ I'm **Christelle**, a passionate developer specializing in **TypeScript**. I lov
 </div>
 
 ---
-![Octocat](https://octodex.github.com/images/hula_loop_octodex03.gif)
+<details>
+  <summary>Click to see the Octocat!</summary>
+<p align="center">
+  <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" alt="Octocat" width="200" />
+</p>
+</details>
