@@ -9,7 +9,7 @@ Feel free to reach out. I'm always open to new connections!
 </p>
   
 <details>
-  <summary>Click to see the Octocat!</summary>
+  <summary>Click to see a hula Octocat! 💮 </summary>
 <p align="center">
   <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" alt="Octocat" width="200" style="border-radius: 50%;" />
 </p>
