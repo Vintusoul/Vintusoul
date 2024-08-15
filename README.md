@@ -1,7 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=christelle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-## Hi there! 
+## Hi there! :octocat:
 I'm **Christelle**, a passionate developer specializing in **TypeScript**. I love crafting beautiful and intuitive user interfaces that bring joy to users. With a keen eye for detail and a commitment to writing clean and maintainable code, I strive to create delightful digital experiences.
 
 ## Work Experience
@@ -26,4 +23,8 @@ I'm **Christelle**, a passionate developer specializing in **TypeScript**. I lov
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
 </div>
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=christelle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
