@@ -18,8 +18,7 @@ I'm **Christelle**, a passionate developer specializing in **TypeScript**. I lov
 
 - **Current:** [InfoDocs](https://infodocs.co.za/)
 - **Previous:** [CodeInfinity](https://codeinfinity.co.za/), [Nexus IT Consultants](https://www.nexusit.dev), [GotBot](https://www.gotbot.co.za/)
-- 
----
+
 **Let's Connect**
 
 <p align="center">
