@@ -7,6 +7,8 @@ Feel free to reach out. I'm always open to new connections!
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
 </p>
+
+Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=christelle-mans
   
 <details>
   <summary>Click to see a hula Octocat! 💮 </summary>
