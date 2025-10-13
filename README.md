@@ -1,5 +1,5 @@
 ### Hi there! :octocat:
-I'm **Christelle**, a product engineer @AIP. Passionate about building elegant, user-friendly digital experiences.
+I'm **Christelle**, a product engineer [**@AIP**](https://aip.media/). Passionate about building elegant, user-friendly digital experiences.
 
 I specialize in TypeScript and love crafting intuitive interfaces that balance form and function. With a strong eye for detail and a focus on clean, maintainable code, I aim to create products that feel effortless to use.
 
