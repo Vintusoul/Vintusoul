@@ -11,6 +11,10 @@
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
 <br/><br/>
+<img src="https://img.shields.io/badge/4%2B%20Years-Experience-007ACC?style=for-the-badge&logo=calendar&logoColor=white" />
+<img src="https://img.shields.io/badge/40%25-User%20Engagement-4ECDC4?style=for-the-badge&logo=trending-up&logoColor=white" />
+<img src="https://img.shields.io/badge/95%25-User%20Satisfaction-FF6B6B?style=for-the-badge&logo=heart&logoColor=white" />
+<br/><br/>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
@@ -48,18 +52,6 @@ $skills = [
 </tr>
 </table>
 
-</div>
-
-<div align="center">
-
-## 🎯 Impact
-
-<br/>
-
-<img src="https://img.shields.io/badge/4%2B%20Years-Experience-007ACC?style=for-the-badge&logo=calendar&logoColor=white" />
-<img src="https://img.shields.io/badge/40%25-User%20Engagement-4ECDC4?style=for-the-badge&logo=trending-up&logoColor=white" />
-<img src="https://img.shields.io/badge/95%25-User%20Satisfaction-FF6B6B?style=for-the-badge&logo=heart&logoColor=white" />
-
 <br/><br/>
 
 </div>
@@ -74,7 +66,7 @@ $skills = [
 <img src="https://img.shields.io/badge/Micro--Frontend-Architecture-4ECDC4?style=for-the-badge&logo=layers&logoColor=white" />
 <img src="https://img.shields.io/badge/Web3-Future%20Web-45B7D1?style=for-the-badge&logo=globe&logoColor=white" />
 
----
+<br/><br/>
 
 ## Let's Connect
 
