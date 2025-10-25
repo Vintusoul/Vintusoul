@@ -63,10 +63,6 @@
 
 </div>
 
-<div align="center">
-
-> **"The best products aren't just technically sound—they're emotionally resonant. Every line of TypeScript should serve the user's journey."**
-
 </div>
 
 <div align="center">
