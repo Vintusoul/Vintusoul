@@ -16,20 +16,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-## 💡 Philosophy
-
-<div style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); padding: 20px; border-radius: 10px; border-left: 4px solid #007ACC; margin: 20px 0;">
-
-> **"Code is poetry written in TypeScript. Every line should serve the user's journey."**
-
-</div>
-
-</div>
-
 <div align="center">
 
 <table>
@@ -88,11 +74,9 @@ $skills = [
 <img src="https://img.shields.io/badge/Micro--Frontend-Architecture-4ECDC4?style=for-the-badge&logo=layers&logoColor=white" />
 <img src="https://img.shields.io/badge/Web3-Future%20Web-45B7D1?style=for-the-badge&logo=globe&logoColor=white" />
 
-<br/><br/>
-
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christelle-zeederberg/)
 
