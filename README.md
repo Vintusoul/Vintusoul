@@ -160,7 +160,7 @@ const product = {
 
 ## 🎯 Professional Highlights
 
-<img src="https://img.shields.io/badge/5%2B%20Years-Product%20Development-007ACC?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/4%2B%20Years-Product%20Development-007ACC?style=for-the-badge&labelColor=1a1a1a" />
 <img src="https://img.shields.io/badge/Full--Stack-Engineer-4ECDC4?style=for-the-badge&labelColor=1a1a1a" />
 <img src="https://img.shields.io/badge/UX--Focused-Approach-FF6B6B?style=for-the-badge&labelColor=1a1a1a" />
 
