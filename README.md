@@ -1,9 +1,7 @@
-<p align="center"><strong>product engineer</strong></p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-    <img src="assets/banner-light.svg" alt="observe → model → simplify → ship" width="840" />
+    <img src="assets/banner-light.svg" alt="product engineer: observe → model → simplify → ship" width="840" />
   </picture>
 </p>
 
@@ -22,12 +20,12 @@ I'm a product engineer at [AIP](https://github.com/aip-tech) in Cape Town. I own
 ### day to day
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2d6a37?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-2d6a37?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-2d6a37?style=flat-square&logo=vite&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-2d6a37?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-2d6a37?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-2d6a37?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-2d6a37?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-2d6a37?style=flat-square&logo=vitest&logoColor=white" />
 </p>
