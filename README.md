@@ -29,7 +29,3 @@ I'm a product engineer at [AIP](https://github.com/aip-tech) in Cape Town. My wo
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
 </p>
-
-### off the clock
-
-I write bots and small tools for Valheim servers and Discord, mostly in Python and TypeScript. One of them exists only to tell dad jokes.
