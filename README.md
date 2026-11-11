@@ -6,16 +6,15 @@
 
 ### about
 
-I'm a product engineer at [AIP](https://github.com/aip-tech) in Cape Town. My work runs from the problem to the pull request: scoping what needs to change, mocking it, building it across the app and the API, then writing up what shipped for the people who use it.
+I'm a product engineer at [AIP](https://github.com/aip-tech) in Cape Town. I own features end to end on a workflow platform that agency teams and their clients rely on every day: I find the real problem, design the answer, build it across the front end and the API, and see it through release.
 
-### how I work
+### what I do
 
-| | |
-| :-- | :-- |
-| **observe** | Start from the problem someone has, not the fix they asked for. |
-| **model** | Sketch it before building it. A mock is cheaper to argue with than a pull request. |
-| **simplify** | Fewer words on the screen, less data over the wire. |
-| **ship** | Small pull requests, and release notes written for the people reading them. |
+- I build across the whole stack in TypeScript, from React and Tailwind interfaces to a GraphQL API on Node and MongoDB.
+- I turn loose requests and support tickets into scoped problems with acceptance criteria before any code is written.
+- I design what I build, mocking layouts and interactions first so decisions are made on a canvas instead of in code review.
+- I keep the product fast on real data, auditing slow queries and sizing every payload for the largest accounts.
+- I write for the people using the product, in the release notes and in the interface itself.
 
 ### day to day
 
