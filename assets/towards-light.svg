@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 160" width="840" height="160" role="img" aria-labelledby="t d">
+  <title id="t">working towards: cybersecurity, cloud architecture, AI features</title>
+  <desc id="d">Three directions: a shield protecting a daisy for cybersecurity, a cloud holding a small system diagram for cloud architecture, and a spark for AI features.</desc>
+  <style>
+    .ink { stroke: #1f2328; }
+    .ink-fill { fill: #1f2328; }
+    .muted { stroke: #656d76; }
+    .muted-fill { fill: #656d76; }
+    .accent-fill { fill: #2f7d3b; }
+    .line { fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .label { font: 600 17px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; text-anchor: middle; }
+    .caption { font: 400 12.5px -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; text-anchor: middle; }
+    .spin { transform-box: fill-box; transform-origin: center; animation: spin 16s linear infinite; }
+    .twinkle { animation: pulse 2.4s ease-in-out infinite; }
+    .twinkle.late { animation-delay: 1.2s; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+    @media (prefers-reduced-motion: reduce) { .spin, .twinkle { animation: none; } }
+  </style>
+
+  <defs>
+    <g id="petals">
+      <ellipse cy="-5.4" rx="2.4" ry="4.2" />
+      <ellipse cy="-5.4" rx="2.4" ry="4.2" transform="rotate(45)" />
+      <ellipse cy="-5.4" rx="2.4" ry="4.2" transform="rotate(90)" />
+      <ellipse cy="-5.4" rx="2.4" ry="4.2" transform="rotate(135)" />
+      <ellipse cy="-5.4" rx="2.4" ry="4.2" transform="rotate(180)" />
+      <ellipse cy="-5.4" rx="2.4" ry="4.2" transform="rotate(225)" />
+      <ellipse cy="-5.4" rx="2.4" ry="4.2" transform="rotate(270)" />
+      <ellipse cy="-5.4" rx="2.4" ry="4.2" transform="rotate(315)" />
+    </g>
+    <g id="daisy-o">
+      <use href="#petals" fill="#fffdf5" stroke="#656d76" stroke-width="0.9" />
+      <circle r="2.8" fill="#f0b429" />
+    </g>
+  </defs>
+
+  <!-- cybersecurity: the idea, protected -->
+  <g transform="translate(180 52)">
+    <path class="line ink" stroke-width="2.5" d="M0 -34L28 -23V-1C28 17 16 28 0 34C-16 28 -28 17 -28 -1V-23Z" />
+    <g transform="translate(0 -1) scale(1.45)"><use class="spin" href="#daisy-o" /></g>
+  </g>
+
+  <!-- cloud architecture: a system inside the cloud -->
+  <g transform="translate(420 52)">
+    <g transform="translate(-38.4 -38.4) scale(3.2)">
+      <path class="line ink" stroke-width="0.78" d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z" />
+    </g>
+    <path class="line muted" stroke-width="1.8" d="M0 -3V3M-12 7V3H12V7" />
+    <g class="accent-fill">
+      <rect x="-4" y="-11" width="8" height="8" rx="2" />
+      <rect x="-16" y="7" width="8" height="8" rx="2" />
+      <rect x="8" y="7" width="8" height="8" rx="2" />
+    </g>
+  </g>
+
+  <!-- AI features: a spark -->
+  <g transform="translate(660 52)">
+    <path class="line ink" stroke-width="2.5" d="M-4 -24Q2 -2 24 4Q2 10 -4 32Q-10 10 -32 4Q-10 -2 -4 -24Z" />
+    <path class="accent-fill twinkle" d="M25 -32Q27 -24 35 -22Q27 -20 25 -12Q23 -20 15 -22Q23 -24 25 -32Z" />
+    <path class="accent-fill twinkle late" d="M29 19Q30 23.5 34.5 24.5Q30 25.5 29 30Q28 25.5 23.5 24.5Q28 23.5 29 19Z" />
+  </g>
+
+  <!-- labels -->
+  <g class="label ink-fill">
+    <text x="180" y="118">cybersecurity</text>
+    <text x="420" y="118">cloud architecture</text>
+    <text x="660" y="118">AI features</text>
+  </g>
+  <g class="caption muted-fill">
+    <text x="180" y="140">safe by design, from the first ticket</text>
+    <text x="420" y="140">how platforms are built and scaled</text>
+    <text x="660" y="140">real work taken off people's hands</text>
+  </g>
+</svg>

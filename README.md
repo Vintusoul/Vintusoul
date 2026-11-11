@@ -11,11 +11,11 @@ I'm a product engineer at [AIP](https://github.com/aip-tech) in Cape Town. I own
 
 ### what I do
 
-- I build across the whole stack in TypeScript, from React and Tailwind interfaces to a GraphQL API on Node and MongoDB.
-- I turn loose requests and support tickets into scoped problems with acceptance criteria before any code is written.
-- I design what I build, mocking layouts and interactions first so decisions are made on a canvas instead of in code review.
-- I keep the product fast on real data, auditing slow queries and sizing every payload for the largest accounts.
-- I write for the people using the product, in the release notes and in the interface itself.
+- Full stack in TypeScript, from React interfaces to a GraphQL API.
+- Loose requests turned into scoped problems before any code is written.
+- Mocks before builds, so decisions happen on a canvas instead of in code review.
+- Fast on real data, with every payload sized for the largest accounts.
+- Writing for the people who use the product, from interface copy to release notes.
 
 ### day to day
 
@@ -32,8 +32,9 @@ I'm a product engineer at [AIP](https://github.com/aip-tech) in Cape Town. I own
 
 ### working towards
 
-The areas I want to grow into next:
-
-- Cybersecurity, so that what I ship is designed to be safe from the first ticket.
-- Cloud architecture, so I can shape how a platform is built and scaled as well as what runs on it.
-- AI features that take real work off people's hands, with the judgement to know where they don't belong.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/towards-dark.svg" />
+    <img src="assets/towards-light.svg" alt="The areas I want to grow into next. Cybersecurity: safe by design, from the first ticket. Cloud architecture: how platforms are built and scaled. AI features: real work taken off people's hands." width="840" />
+  </picture>
+</p>
