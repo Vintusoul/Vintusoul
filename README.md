@@ -29,3 +29,11 @@ I'm a product engineer at [AIP](https://github.com/aip-tech) in Cape Town. I own
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-2d6a37?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Vitest" src="https://img.shields.io/badge/Vitest-2d6a37?style=flat-square&logo=vitest&logoColor=white" />
 </p>
+
+### working towards
+
+The areas I want to grow into next:
+
+- Cybersecurity, so that what I ship is designed to be safe from the first ticket.
+- Cloud architecture, so I can shape how a platform is built and scaled as well as what runs on it.
+- AI features that take real work off people's hands, with the judgement to know where they don't belong.
