@@ -1,8 +1,11 @@
 <p align="center"><strong>product engineer</strong></p>
 
-<p align="center">observe → model → simplify → ship</p>
-
-<br />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+    <img src="assets/banner-light.svg" alt="observe → model → simplify → ship" width="840" />
+  </picture>
+</p>
 
 ### about
 
