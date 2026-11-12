@@ -11,7 +11,7 @@ I'm a product engineer at [AIP](https://github.com/aip-tech) in Cape Town. I own
 
 ### portfolio
 
-Step into [my studio](https://vintusoul.github.io/portfolio/): an illustrated room you explore by clicking around. The [code is here](https://github.com/Vintusoul/portfolio).
+Step into [my studio](https://vintusoul.github.io/portfolio/): an illustrated room you explore by clicking around.
 
 ### what I do
 
