@@ -9,6 +9,10 @@
 
 I'm a product engineer at [AIP](https://github.com/aip-tech) in Cape Town. I own features end to end on a workflow platform that agency teams and their clients rely on every day: I find the real problem, design the answer, build it across the front end and the API, and see it through release.
 
+### portfolio
+
+Step into [my studio](https://vintusoul.github.io/portfolio/): an illustrated room you explore by clicking around. The [code is here](https://github.com/Vintusoul/portfolio).
+
 ### what I do
 
 - Full stack in TypeScript, from React interfaces to a GraphQL API.
