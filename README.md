@@ -20,6 +20,10 @@ I'm a product engineer at [AIP](https://github.com/aip-tech) in Cape Town. I own
   </a>
 </p>
 
+### case study
+
+[The Monday Number](https://vintusoul.github.io/the-monday-number/): a short narrated story about a client who asked for more charts, and why finding the real need is still the job when AI writes the code.
+
 ### what I do
 
 - Full stack in TypeScript, from React interfaces to a GraphQL API.
