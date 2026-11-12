@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -30 840 304" width="840" height="304" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -30 840 244" width="840" height="244" role="img" aria-labelledby="t d">
   <title id="t">product engineer: observe, model, simplify, ship</title>
-  <desc id="d">Four stages of one idea: a daisy found among scattered dots, a sketched wireframe, the same screen reduced to its essentials, and the finished piece shipped. Below, a field of daisies.</desc>
+  <desc id="d">Four stages of one idea: a daisy found among scattered dots, a sketched wireframe, the same screen reduced to its essentials, and the finished piece shipped.</desc>
   <style>
     .ink { stroke: #e6edf3; }
     .ink-fill { fill: #e6edf3; }
@@ -39,9 +39,6 @@
       <use href="#petals" fill="#fffdf5" stroke="#8b949e" stroke-width="0.9" />
       <circle r="2.8" fill="#f0b429" />
     </g>
-    <clipPath id="field">
-      <rect x="20" y="214" width="800" height="48" rx="24" />
-    </clipPath>
   </defs>
 
   <!-- connectors -->
@@ -122,29 +119,5 @@
     <text x="320" y="200">mock it before building</text>
     <text x="520" y="200">cut what isn't needed</text>
     <text x="720" y="200">get it to real users</text>
-  </g>
-
-  <!-- the field -->
-  <rect x="20" y="214" width="800" height="48" rx="24" fill="#2d6a37" />
-  <g clip-path="url(#field)">
-    <g class="line" stroke="#4f9a55" stroke-width="1.6">
-      <path d="M70 244l2-6M118 232l2-6M166 256l2-6M214 228l2-6M262 246l2-6M316 232l2-6M368 254l2-6M418 240l2-6M470 226l2-6M522 248l2-6M574 240l2-6M624 258l2-6M676 234l2-6M726 240l2-6M772 226l2-6M806 250l2-6" />
-    </g>
-    <use href="#daisy" transform="translate(46 232) scale(0.8)" />
-    <use href="#daisy" transform="translate(92 253) scale(0.6)" />
-    <use href="#daisy" transform="translate(140 224) scale(0.55)" />
-    <use href="#daisy" transform="translate(188 247) scale(0.85)" />
-    <use href="#daisy" transform="translate(238 229) scale(0.6)" />
-    <use href="#daisy" transform="translate(290 255) scale(0.7)" />
-    <use href="#daisy" transform="translate(340 236) scale(0.5)" />
-    <use href="#daisy" transform="translate(392 222) scale(0.75)" />
-    <use href="#daisy" transform="translate(442 251) scale(0.6)" />
-    <use href="#daisy" transform="translate(498 231) scale(0.8)" />
-    <use href="#daisy" transform="translate(548 256) scale(0.55)" />
-    <use href="#daisy" transform="translate(598 226) scale(0.6)" />
-    <use href="#daisy" transform="translate(650 248) scale(0.8)" />
-    <use href="#daisy" transform="translate(702 224) scale(0.55)" />
-    <use href="#daisy" transform="translate(750 252) scale(0.7)" />
-    <use href="#daisy" transform="translate(794 233) scale(0.6)" />
   </g>
 </svg>
