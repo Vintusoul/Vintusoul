@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 230" width="840" height="230" role="img" aria-labelledby="t d">
+  <title id="t">Step into my studio</title>
+  <desc id="d">A green door left ajar with warm light spilling out, a HELLO mat in front of it, a potted daisy on one side and a grey striped cat waiting on the other. Beside it: step into my studio, an illustrated room you explore by clicking around. Open the door.</desc>
+  <style>
+    .ink { stroke: #e6edf3; }
+    .ink-fill { fill: #e6edf3; }
+    .muted { stroke: #8b949e; }
+    .muted-fill { fill: #8b949e; }
+    .line { fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .title { font: 700 26px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; letter-spacing: 0.3px; }
+    .caption { font: 400 13.5px -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .pill { font: 600 13.5px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; text-anchor: middle; }
+    .sign { font: 600 11px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; text-anchor: middle; letter-spacing: 2.5px; }
+    .mat { font: 700 8.5px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; text-anchor: middle; letter-spacing: 1.6px; }
+    .spin { transform-box: fill-box; transform-origin: center; animation: spin 16s linear infinite; }
+    .tail { transform-box: fill-box; transform-origin: 0% 100%; animation: tail 2.8s ease-in-out infinite; }
+    .blink { transform-box: fill-box; transform-origin: center; animation: blink 5.5s infinite; }
+    .glow { animation: glow 3.6s ease-in-out infinite; }
+    .ray { animation: ray 3.6s ease-in-out infinite; }
+    .nudge { animation: nudge 1.8s ease-in-out infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes tail { 0%, 100% { transform: rotate(-9deg); } 50% { transform: rotate(12deg); } }
+    @keyframes blink { 0%, 92%, 100% { transform: scaleY(1); } 96% { transform: scaleY(0.1); } }
+    @keyframes glow { 0%, 100% { opacity: 0.1; } 50% { opacity: 0.85; } }
+    @keyframes ray { 0%, 100% { opacity: 0.35; } 50% { opacity: 1; } }
+    @keyframes nudge { 0%, 100% { transform: translateX(0); } 50% { transform: translateX(3px); } }
+    @media (prefers-reduced-motion: reduce) { .spin, .tail, .blink, .glow, .ray, .nudge { animation: none; } }
+  </style>
+
+  <defs>
+    <g id="petals">
+      <ellipse cy="-5.4" rx="2.4" ry="4.2" />
+      <ellipse cy="-5.4" rx="2.4" ry="4.2" transform="rotate(45)" />
+      <ellipse cy="-5.4" rx="2.4" ry="4.2" transform="rotate(90)" />
+      <ellipse cy="-5.4" rx="2.4" ry="4.2" transform="rotate(135)" />
+      <ellipse cy="-5.4" rx="2.4" ry="4.2" transform="rotate(180)" />
+      <ellipse cy="-5.4" rx="2.4" ry="4.2" transform="rotate(225)" />
+      <ellipse cy="-5.4" rx="2.4" ry="4.2" transform="rotate(270)" />
+      <ellipse cy="-5.4" rx="2.4" ry="4.2" transform="rotate(315)" />
+    </g>
+    <g id="daisy-o">
+      <use href="#petals" fill="#fffdf5" stroke="#8b949e" stroke-width="0.9" />
+      <circle r="2.8" fill="#f0b429" />
+    </g>
+  </defs>
+
+  <g transform="translate(34 8)">
+    <!-- the floor -->
+    <path class="line muted" stroke-width="2.5" d="M64 190H336" />
+
+    <!-- a potted daisy -->
+    <path class="line ink" stroke-width="2.3" d="M91 190l-3-19h24l-3 19" />
+    <path class="line" stroke="#46954a" stroke-width="2.4" d="M100 171V143M100 160q-9-1-11-9M100 156q8-1 10-8" />
+    <g transform="translate(100 134) scale(1.7)"><use class="spin" href="#daisy-o" /></g>
+
+    <!-- the door, left ajar -->
+    <text class="sign muted-fill" x="190" y="46">studio</text>
+    <rect x="152" y="60" width="76" height="130" fill="#ffd479" />
+    <rect class="glow" x="152" y="60" width="76" height="130" fill="#fff3c9" />
+    <path class="line ink" stroke-width="2.6" d="M150 190V62a4 4 0 0 1 4-4h72a4 4 0 0 1 4 4V190" />
+    <path class="ink" stroke-width="2.6" stroke-linejoin="round" fill="#46954a" d="M151 59L201 73V184L151 190Z" />
+    <path class="line" stroke="#2d6a37" stroke-width="2" d="M160 76l32 8v36l-32-3zM160 130l32 2v40l-32 5z" />
+    <circle class="ink-fill" cx="194" cy="128" r="3" />
+    <g class="line ray" stroke="#ffd479" stroke-width="2.4">
+      <path d="M238 96l13-5M240 124h15M238 152l13 5" />
+    </g>
+
+    <!-- the mat -->
+    <rect class="line muted" x="156" y="197" width="70" height="17" rx="4" stroke-width="1.8" />
+    <text class="mat muted-fill" x="191" y="209.4">HELLO</text>
+
+    <!-- Mercury, waiting -->
+    <g transform="translate(292 190) scale(1.12)">
+      <path class="tail line" d="M14 -4q20 2 18 -17" stroke="#8a9099" stroke-width="5" />
+      <path d="M-15 0C-17 -22 -10 -34 0 -34C10 -34 17 -22 15 0Z" fill="#9aa1a9" />
+      <ellipse cx="0" cy="-13" rx="6" ry="10" fill="#e9ecef" />
+      <ellipse cx="0" cy="-42" rx="13.5" ry="11" fill="#9aa1a9" />
+      <path d="M-12.5 -46L-11 -59L-3 -51ZM12.5 -46L11 -59L3 -51Z" fill="#9aa1a9" />
+      <g class="line" stroke="#6b727a" stroke-width="1.7">
+        <path d="M-3.5 -52v4M0 -53v5M3.5 -52v4M-14 -15h5M-14.6 -9h5M14 -15h-5M14.6 -9h-5" />
+      </g>
+      <g class="blink" fill="#1f2328">
+        <circle cx="-5" cy="-42.5" r="1.7" />
+        <circle cx="5" cy="-42.5" r="1.7" />
+      </g>
+      <path d="M-1.6 -39h3.2L0 -37Z" fill="#e79aa0" />
+      <ellipse cx="-5" cy="-1.5" rx="4.2" ry="2.6" fill="#e9ecef" />
+      <ellipse cx="5" cy="-1.5" rx="4.2" ry="2.6" fill="#e9ecef" />
+    </g>
+
+    <!-- the words -->
+    <text class="title ink-fill" x="392" y="104">step into my studio</text>
+    <text class="caption muted-fill" x="392" y="132">an illustrated room you explore by clicking around</text>
+    <rect x="392" y="152" width="172" height="36" rx="18" fill="#2d6a37" />
+    <text class="pill" x="478" y="175" fill="#ffffff">open the door <tspan class="nudge">→</tspan></text>
+  </g>
+</svg>

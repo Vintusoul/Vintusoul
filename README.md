@@ -11,7 +11,14 @@ I'm a product engineer at [AIP](https://github.com/aip-tech) in Cape Town. I own
 
 ### portfolio
 
-Step into [my studio](https://vintusoul.github.io/portfolio/): an illustrated room you explore by clicking around.
+<p align="center">
+  <a href="https://vintusoul.github.io/portfolio/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-dark.svg" />
+      <img src="assets/portfolio-light.svg" alt="Step into my studio: an illustrated room you explore by clicking around. Open the door." width="840" />
+    </picture>
+  </a>
+</p>
 
 ### what I do
 
