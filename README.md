@@ -22,7 +22,14 @@ I'm a product engineer at [AIP](https://github.com/aip-tech) in Cape Town. I own
 
 ### case study
 
-[The Monday Number](https://vintusoul.github.io/the-monday-number/): a short narrated story about a client who asked for more charts, and why finding the real need is still the job when AI writes the code.
+<p align="center">
+  <a href="https://vintusoul.github.io/the-monday-number/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/case-study-dark.svg" />
+      <img src="assets/case-study-light.svg" alt="The Monday Number, a narrated case study on why product engineers still matter when AI writes the code. The ask was more charts. The need was one number by Monday 10am. Play the story, under two minutes." width="840" />
+    </picture>
+  </a>
+</p>
 
 ### what I do
 
