@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-    <img src="assets/banner-light.svg" alt="product engineer: observe → model → simplify → ship" width="840" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=2" />
+    <img src="assets/banner-light.svg?v=2" alt="product engineer: observe → model → simplify → ship" width="840" />
   </picture>
 </p>
 
